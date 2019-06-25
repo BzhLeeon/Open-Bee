@@ -1,6 +1,1 @@
-echo "# Open-Bee" >> README.md 
-git init 
-git ajouter README.md 
-git commit -m "premier commit" 
-git distant ajouter origine https://github.com/BzhLeeon/Open-Bee.git
- git push -u maître d'origine
+
